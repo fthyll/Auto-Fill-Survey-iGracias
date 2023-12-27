@@ -1,4 +1,4 @@
-const pilihan = 1; // Pilih jawaban 1-5
+const pilihan = 4; // Pilih jawaban 1-4 tergantung berapa radio x
 const radioGroups = document.querySelectorAll("[id='radioX']");
 let delay = 200; // Penundaan awal (200ms)
 
